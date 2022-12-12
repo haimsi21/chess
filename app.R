@@ -37,8 +37,6 @@ df <-as_tibble(x,fi,exx,exm,pix,pim,lf,laf,lex,lem,laex,laem,lpx,lpm,lapx,lapm,r
 cc<-c("x","fi","exx","exm","pix","pim","lf","laf","lex","lem","laex","laem","lpx","lpm","lapx","lapm")
 
 pais_df <- read.csv("paises.csv")
-col1 <- read.csv ("color.txt", sep = "", header = F)
-
 
 #############################################################################################################
 
